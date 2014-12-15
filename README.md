@@ -1,7 +1,7 @@
 Tesseract_OVR
 =============
 
-a four-dimensional space simulator 
+a four-dimensional Euclidean space simulator 
 
 -12.14.2014
 first commitment
